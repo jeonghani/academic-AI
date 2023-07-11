@@ -1,6 +1,3 @@
-# academic-AI
-2022 학술제 AI 코드
-
 ### 수해인식 AI ###
 - - -
 ![과정](https://github.com/jeonghani/academic-AI/assets/81557284/6ca78005-726d-410b-ba76-73b81144d0e8)
